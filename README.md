@@ -12,7 +12,7 @@ Senior Bioinformatics Scientist building AI-driven solutions for precision medic
 - Biomedical knowledge systems and retrieval augmented generation (RAG)
 
 ## Professional Certifications
-- Project Management Professional (PMP)®, Project Management Institute, October 2026
+- Project Management Professional (PMP)®, Project Management Institute
 - Google Cloud Certified Professional Machine Learning Engineer
 - AWS Certified Solutions Architect Associate
 - Epic Cogito Certification
